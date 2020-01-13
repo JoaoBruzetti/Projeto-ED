@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1573063432 source:c:\users\sérgio e maria\desktop\animes\projetofinal_ed\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"proj.h"
+	<ctype.h>
+	<string.h>
+
+1573666421 c:\users\sérgio e maria\desktop\animes\projetofinal_ed\proj.h
+
+1573666008 source:c:\users\sérgio e maria\desktop\animes\projetofinal_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"proj.h"
+	<ctype.h>
+	<string.h>
+
+1574366619 source:c:\users\rodri\desktop\desktop\faculdade\2 semestre\estrutura de dados 1\projetofinal\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"proj.h"
+	<ctype.h>
+	<string.h>
+
+1574358004 c:\users\rodri\desktop\desktop\faculdade\2 semestre\estrutura de dados 1\projetofinal\proj.h
+
+1574365521 source:c:\users\rodri\desktop\desktop\faculdade\2 semestre\estrutura de dados 1\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"proj.h"
+
+1574367009 source:c:\users\sérgio e maria\desktop\animes\deucerto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"proj.h"
+
+1574358004 c:\users\sérgio e maria\desktop\animes\deucerto\proj.h
+
+1574811354 source:c:\users\sérgio e maria\desktop\animes\projeto_final_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
+1574813054 c:\users\sérgio e maria\desktop\animes\projeto_final_ed\proj.h
+
+1574813120 source:c:\users\sérgio e maria\desktop\animes\projeto_final_ed\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
+1574812264 source:c:\users\sérgio e maria\desktop\animes\projeto_final_ed_cod\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
+1574813054 c:\users\sérgio e maria\desktop\animes\projeto_final_ed_cod\proj.h
+
+1574811354 source:c:\users\sérgio e maria\desktop\animes\projeto_final_ed_cod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
+1574811354 source:c:\users\sérgio e maria\desktop\projeto_final_ed\projeto_final_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
+1574813054 c:\users\sérgio e maria\desktop\projeto_final_ed\projeto_final_ed\proj.h
+
+1574813120 source:c:\users\sérgio e maria\desktop\projeto_final_ed\projeto_final_ed\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"proj.h"
+
